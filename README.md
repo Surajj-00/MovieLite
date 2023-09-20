@@ -1,2 +1,1 @@
-# MovieLite
-A project of movie info
+http://localhost:8080/index.html
